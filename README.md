@@ -3,7 +3,7 @@
 
 # Hi there, I´m Miguel 👋
 
-I'm trying to give my life a boost by diving into a new programming challenge. 
+I'm trying to give my life a boost by diving into a new learning challenge. 
 
 ![pc on fire](https://media.giphy.com/media/g79am6uuZJKSc/giphy.gif)
 
