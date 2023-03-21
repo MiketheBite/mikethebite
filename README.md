@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there, I´m Miguel 👋
+
+I'm currently learning to program! But I still have no idea what I'm doing!
+
+![pc on fire](https://media.giphy.com/media/g79am6uuZJKSc/giphy.gif)
+
+
 
 <!--
 **MiketheBite/mikethebite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
