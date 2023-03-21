@@ -11,9 +11,11 @@ But I still have no idea what I'm doing!
 
 ### Summary👋
 - 🌱 I'm Portuguese but I live in Germany. 
-- 😄 I'm a Pasteis de Nata lover but I don't miss a Weissbier with Weisswurst for breakfast!
+- 😄 I'm a Pasteis de Nata lover but I don't miss a Weissbier :beer: with Weisswurst for breakfast!:pretzel:	
+- :running_shirt_with_sash:	I love sports, I usually swim and run with some frequency. But now I'm discovering Crossfit 
+- :earth_africa:	I love to travel, the places where I liked going the most were Congo and Japan.
 - 🔭 I’m currently working as a intensive care Nurse.
-- 👯 I have plans to learn to program and would like to work as a programmer in scientific research or medicine. Something around that!
+- 👯 I have plans to learn to program and would like to work as a programmer in scientific research or medicine digitalization. Something around that!
 
 
 
